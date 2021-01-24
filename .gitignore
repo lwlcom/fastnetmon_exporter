@@ -1,2 +1,3 @@
 outputs
 fastnetmon_exporter
+dist/
